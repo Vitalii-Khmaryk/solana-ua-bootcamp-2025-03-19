@@ -1,0 +1,17 @@
+{
+  "name": "key-grinder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx esrun find-keypair.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@solana/web3.js": "^1.98.0",
+    "bs58": "^6.0.0",
+    "esrun": "^3.2.26"
+  }
+}
